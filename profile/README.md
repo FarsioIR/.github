@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/farsio-logo.png" alt="Farsio · فارسیو" width="360" />
+<img src="./assets/farsio-logo.png" alt="Farsio - فارسیو" width="360" />
 
-# Farsio · فارسیو
+# Farsio - فارسیو
 
-### ابزارهای فارسی‌محور برای نوشتن، خواندن و شنیدن بهتر
-**Persian-first tools for writing, reading and listening better.**
+### یار فارسی‌زبان
+**Persian-first tools for writing, reading and listening.**
 
 [Website](https://farsio.ir) · [Products](https://farsio.ir/fa/#products) · [Docs](https://farsio.ir/fa/docs)
 
@@ -13,46 +13,44 @@
 
 ---
 
-## محصولات · Products
+## Products · محصولات
 
-### ✍️ نوشت‌یار · Neveshtyar
-**دستیار هوشمند فارسی**
+### ✍️ NeveshtYar · نوشت‌یار
+**Farsi Smart Assistant by Farsio**
 
-برای اصلاح نوشتار، بازیابی چیدمان صفحه‌کلید، Finglish و تجربه‌ی بهتر نوشتن فارسی در مرورگر.
+Persian & English writing assistant, keyboard-layout recovery and Finglish correction.
 
-Persian writing intelligence for correction, keyboard-layout recovery, Finglish and browser workflows.
+**بنویس، درست و روان**
 
-- Repository: [AmirMotefaker/Farsi-Smart-Assistant](https://github.com/AmirMotefaker/Farsi-Smart-Assistant)
+- Repository: [FarsioIR/NeveshtYar](https://github.com/FarsioIR/NeveshtYar)
 - Current public release: **v4.9.1**
 - Product page: https://farsio.ir/fa/products/neveshtyar
 
-### 🎧 آوا · Ava
-**بشنو، به فارسی.**
+### 🎧 AvaYar · آوایار
+**Persian Reading & Listening Assistant by Farsio**
 
-محتوای وب را برای خواندن و شنیدن فارسی آماده می‌کند؛ با استخراج محتوا، تبدیل متن غیر فارسی به فارسی روان در صورت نیاز و تجربه‌ی شنیداری فارسی.
+Persian-first web reading, translation and text-to-speech experience.
 
-A Persian-first reading and listening experience for web content.
+**بشنو، به فارسی**
 
-- Repository: [AmirMotefaker/farsismart-listen](https://github.com/AmirMotefaker/farsismart-listen)
+- Repository: [FarsioIR/AvaYar](https://github.com/FarsioIR/AvaYar)
 - Product page: https://farsio.ir/fa/products/ava
 
 ---
 
-## اصول فارسیو · Farsio principles
+## Farsio principles · اصول فارسیو
 
 - **Persian-first** — فارسی یک زبان درجه‌اول در طراحی محصول است.
 - **Privacy-minded** — دسترسی‌ها و جریان داده تا حد نیاز واقعی محصول محدود می‌شوند.
-- **Fast by default** — تجربه‌ی سریع، سبک و بدون پیچیدگی غیرضروری.
-- **Open development** — بخش مهمی از توسعه و انتشار فنی روی GitHub قابل بررسی است.
-- **Bilingual web** — وب‌سایت رسمی فارسیو فعلاً به دو زبان فارسی و انگلیسی ارائه می‌شود.
+- **Fast by default** — تجربه‌ای سریع، سبک و بدون پیچیدگی غیرضروری.
+- **Open development** — توسعه، انتشار و تاریخچه فنی محصولات اصلی روی GitHub قابل بررسی است.
+- **Bilingual web** — وب‌سایت رسمی فارسیو به فارسی و انگلیسی ارائه می‌شود.
 
----
+## Official repositories
 
-## Official web repository
-
-Source for **Farsio.ir**:
-
-[`FarsioIR/farsio.ir`](https://github.com/FarsioIR/farsio.ir)
+- [NeveshtYar](https://github.com/FarsioIR/NeveshtYar)
+- [AvaYar](https://github.com/FarsioIR/AvaYar)
+- [farsio.ir](https://github.com/FarsioIR/farsio.ir)
 
 ---
 
