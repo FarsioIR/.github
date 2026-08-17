@@ -16,6 +16,11 @@
 ## Products · محصولات
 
 ### ✍️ NeveshtYar · نوشت‌یار
+
+<!-- farsio-neveshtyar-logo:v1 -->
+<p align="center">
+  <img src="./assets/products/neveshtyar-mark.png" alt="NeveshtYar · نوشت‌یار" width="140" />
+</p>
 **Farsi Smart Assistant by Farsio**
 
 Persian & English writing assistant, keyboard-layout recovery and Finglish correction.
@@ -27,6 +32,11 @@ Persian & English writing assistant, keyboard-layout recovery and Finglish corre
 - Product page: https://farsio.ir/fa/products/neveshtyar
 
 ### 🎧 AvaYar · آوایار
+
+<!-- farsio-avayar-logo:v1 -->
+<p align="center">
+  <img src="./assets/products/avayar-mark.png" alt="AvaYar · آوایار" width="150" />
+</p>
 **Persian Reading & Listening Assistant by Farsio**
 
 Persian-first web reading, translation and text-to-speech experience.
