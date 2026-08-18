@@ -1,0 +1,40 @@
+name: Bug report
+description: Report a reproducible problem in a Farsio product or repository.
+title: "[Bug]: "
+body:
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      options:
+        - NeveshtYar
+        - AvaYar
+        - farsio.ir
+        - Organization / documentation
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Problem
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety check
+      options:
+        - label: I have not included passwords, API keys, tokens, private keys or personal data.
+          required: true
