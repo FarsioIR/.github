@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Farsio documentation
+    url: https://farsio.ir/fa/docs
+    about: Product documentation and general guidance.
+  - name: Security guidance
+    url: https://github.com/FarsioIR/.github/blob/main/SECURITY.md
+    about: Read this before reporting a security vulnerability.
